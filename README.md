@@ -1,5 +1,4 @@
 # 2019-Frequency-Player
-Frequency Player. BEEP!
 
 ### Enjoy Debugging! Beeeeeeeeeeeeeeeeeeeeeeeeeeeep!
 
